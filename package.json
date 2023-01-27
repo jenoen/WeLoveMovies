@@ -29,6 +29,8 @@
     "knex": "^0.21.12",
     "morgan": "^1.10.0",
     "pg": "^8.4.2",
+    "r": "^0.0.5",
+    "react-scripts": "^5.0.1",
     "sqlite3": "^5.0.0"
   },
   "devDependencies": {
